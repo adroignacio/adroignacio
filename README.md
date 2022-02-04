@@ -1,6 +1,7 @@
 Hi, I’m @adroignacio, but my real name is Alejandro👋
 
-I’m currently learning Java beacause I'm studying a DevOps diplomature.
+I’m Telecommunication Engineer and I have a diplomature called Lean-Agile Business Developer. Actually I'm cursing a DevOps diplomature.
 
-I like the front-end approach, but I'm a junior in therms of HTML, CSS and Javascript.
+I like the front-end approach, but I'm a junior programming.
+
 
